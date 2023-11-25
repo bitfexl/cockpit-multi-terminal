@@ -12,8 +12,6 @@ cd ~
 
 ## Sources
 
-https://cockpit-project.org/guide/latest/development
-
-https://github.com/cockpit-project/cockpit/tree/main/examples/pinger
-
-https://cockpit-project.org/guide/latest/api-terminal-html.html
+-   https://cockpit-project.org/guide/latest/development
+-   https://github.com/cockpit-project/cockpit/tree/main/examples/pinger
+-   https://cockpit-project.org/guide/latest/api-terminal-html.html
